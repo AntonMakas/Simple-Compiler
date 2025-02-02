@@ -1,6 +1,3 @@
-Author: Anton Makasevych
-Login: xmakasa00
-
 Used language: Java
 
 About project:
@@ -13,10 +10,6 @@ Start of project:
 2. Copy file "Compiler.jar" to the Merlin server
 3. To run an application use this command:
 	java -jar Compiler.jar "add(5,4)"
-
-AI code:
-	lexical_analyzer/Lexer.java line 68 
-	-String pattern = "^[+-]?\\d+(\\.\\d+)?([eE][+-]?\\d+)?$";
 
 Libraries:
 	-List
